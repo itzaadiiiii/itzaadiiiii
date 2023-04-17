@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@itzaadiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/@itzaadiiiii?logo=twitter&style=for-the-badge" alt="@itzaadiiiii" /></a> </p>
 
-- 🔭 I’m currently working on **Sigma Health Care**
+- 🔭 I’m currently working on **Recipe Project**
 
-- 🌱 I’m currently learning **flask, MongoDB**
+- 🌱 I’m currently learning **NumPy, Pandas**
 
 - 💬 Ask me about **Python, Django**
 
