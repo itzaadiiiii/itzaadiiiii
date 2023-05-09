@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Recipe Project**
 
-- 🌱 I’m currently learning **NumPy, Pandas**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django , SQL **
 
 - ⚡ Fun fact **Talk less Code More**
 
