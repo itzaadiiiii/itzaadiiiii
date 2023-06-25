@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@itzaadiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/@itzaadiiiii?logo=twitter&style=for-the-badge" alt="@itzaadiiiii" /></a> </p>
 
-- 🔭 I’m currently working on **Recipe Project**
+- 🔭 Working as a **Software Developer**
 
 - 🌱 I’m currently learning **Power BI**
 
