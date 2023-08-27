@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **Python, Django , SQL , Excel , Power BI**
+- 💬 Ask me about **Python, Django , SQL , Advance Excel , Power BI , Tableau**
 
 - ⚡ Fun fact **Talk less Code More**
 
