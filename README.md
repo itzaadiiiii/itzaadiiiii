@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@itzaadiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/@itzaadiiiii?logo=twitter&style=for-the-badge" alt="@itzaadiiiii" /></a> </p>
 
-- 🔭  **Software Developer**
+# - 🔭  **DevOps Engineer**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Python, Django , SQL , Advance Excel , Power BI , Tableau**
+- 💬 Ask me about **DevOps, AWS Cloud, CI-CD , Docker, Kubernetes , Terraform ,Python, Django , SQL , Advance Excel , Power BI , Tableau**
 
 - ⚡ Fun fact **Talk less Code More**
 
