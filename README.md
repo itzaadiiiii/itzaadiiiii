@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://itzaadiiiii.io) -->
-### <h1 align="center" style="color: red;">Hi 👋, I'm Aadiitya Patil</h1>
+<h1 align="center" style="color: red;">Hi 👋, I'm Aadiitya Patil</h1>
 <!-- <h3 align="center">We live and breathe software development</h3> -->
-<h3 align="center">"Driving Efficiency, Bridging Gaps: DevOps Engineer at your service!"</h3
+<h3 align="center">"Driving Efficiency, Bridging Gaps: DevOps Engineer at your service !"</h3
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps, AWS Cloud, CI-CD , Docker, Kubernetes , Terraform ,Python, Django , SQL , Advance Excel , Power BI , Tableau**
 
-- ⚡ Fun fact **Talk less Code More**
+- ⚡ Fun fact ### **Talk less Code More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
