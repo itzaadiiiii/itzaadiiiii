@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps, AWS Cloud, CI-CD , Docker, Kubernetes , Terraform ,Python, Django , SQL , Advance Excel , Power BI , Tableau**
 
-- ⚡ Fun fact ### **Talk less Code More**
+- ⚡ Fun fact **Talk less Code More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
