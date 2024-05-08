@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **DevOps, AWS Cloud, CI-CD , Ansible , Docker, Kubernetes , Terraform ,Python, Django , MySQL , Advance Excel **
+- 💬 Ask me about **DevOps, AWS Cloud, CI-CD , Ansible , Docker, Kubernetes , Terraform ,Python, Django , MySQL , Advance Excel**
 
 - ⚡ Fun fact **Talk less Code More**
 
