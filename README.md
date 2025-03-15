@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@itzaadiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/@itzaadiiiii?logo=twitter&style=for-the-badge" alt="@itzaadiiiii" /></a> </p>
 
-# - 🔭  **DevOps Engineer**
+# - 🔭  **AWS DevOps Engineer**
 
 - 🌱 I’m currently learning **Kubernetes**
 
