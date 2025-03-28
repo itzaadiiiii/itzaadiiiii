@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **DevOps, AWS , AZURE , CI-CD , Jenkins , Ansible , Docker, Kubernetes , Prometheus , Graphana , Terraform , Python, Django , MySQL**
+- 💬 Ask me about ** AWS , AZURE , DevOps, Terraform , CI-CD , Jenkins , Ansible , Docker, Kubernetes , Prometheus , Graphana , Python, Django , MySQL**
 
 - ⚡ Fun fact **Talk less Code More**
 
