@@ -1,13 +1,13 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://itzaadiiiii.io) -->
 <h1 align="center" style="color: red;">Hi 👋, I'm Aditya Patil</h1>
 <!-- <h3 align="center">We live and breathe software development</h3> -->
-<h3 align="center">"Driving Efficiency, Bridging Gaps: DevOps Engineer at your service !"</h3
+<h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service !"</h3
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/@itzaadiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/@itzaadiiiii?logo=twitter&style=for-the-badge" alt="@itzaadiiiii" /></a> </p>
 
-# - 🔭  **AWS DevOps Engineer**
+# - 🔭  **Cloud DevOps Engineer**
 
 - 🌱 I’m currently learning **Kubernetes**
 
