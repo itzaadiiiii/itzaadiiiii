@@ -70,9 +70,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itzaadiiiii" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=itzaadiiiii)
+
 
 
 
