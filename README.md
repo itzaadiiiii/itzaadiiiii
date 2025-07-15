@@ -1,16 +1,17 @@
-<!-- Profile Header -->
+
+<!-- Optional: Header Banner -->
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://itzaadiiiii.io) -->
 
-<h1 align="center">Hi👋, I'm ADITYA PATIL</h1>
+<h1 align="center">Hi 👋, I'm ADITYA PATIL</h1>
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" />
 </p>
 
-<p align="left">
-  <a href="https://x.com/itzaadiiiii_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/itzaadiiiii_?logo=twitter&style=for-the-badge" alt="itzaadiiiii" />
+<p align="center">
+  <a href="https://x.com/itzaadiiiii_" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/itzaadiiiii_?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
 
@@ -24,33 +25,32 @@
 
 ---
 
-## 🌐 Connect with me :
+## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/itzaadiiiii_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://twitter.com/itzaadiiiii_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/aadiityapatil420/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/aadiityapatil420/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/itzaadiiiii_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/itzaadiiiii_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/Cr3znbqwQcWl75oyrD77ahQZI09uKU3uUrPO792rp1s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL3RhbmRw/ZnVuL3NraWxsLWlj/b25zL3Jhdy9tYWlu/L2ljb25zL0dpdGh1/Yi1EYXJrLnN2Zw" alt="GitHub" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/RKj5I4nL8tOUIMgflbE5yPmY9sl2SPN7gX_iGLGs7X0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE1LzI4Lzc4Lzc5/LzM2MF9GXzE1Mjg3/ODc5MzhfSUdaOXBM/bXpldG15eVpDRW9O/ckpaZ1VzUks4bTNj/cDUuanBn" alt="CI/CD" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/1oohjznWhGOtVhRHx96JPzRBTLfB_lwNclqSUFuVV3A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJz/cndwL3N0eWxlcy9j/b21tdW5pdHlJY29u/X281N2l1bXk4eXVk/NTEucG5nP3dpZHRo/PTk2JmhlaWdodD05/NiZmcmFtZT0xJmF1/dG89d2VicCZjcm9w/PTk2Ojk2LHNtYXJ0/JnM9ZTFjYmVkYmUw/MDQxNDJjYjM2M2I2/MjZkZDkyYmY2MGM4/ZDA2YjBjMg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/AoF24q7OWetRPRWVP_PCMCSt0KRKgs5ayXcmIR9Zv2E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/MGM5MTI0MTdkYzNi/YWM1YzlmYTI2MTYv/NjNiNWU1N2FhMjg2/ZDI3YzJkNTYxZTM3/X2dpdGh1Yi1hY3Rp/b25zJTIwKDEpLnN2/Zw" alt="Github-Actions" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="CI/CD" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -64,15 +64,20 @@
 
 ---
 
-## 📈 GitHub Stats :
+## 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzaadiiiii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzaadiiiii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itzaadiiiii" alt="GitHub Streak" />
+</p>
+
 
 
 
