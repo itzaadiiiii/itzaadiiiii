@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://itzaadiiiii.io) -->
 
-<h1 align="center">Hi 👋, I'm ADITYA PATIL</h1>
+<h1 align="center">Hi👋, I'm ADITYA PATIL</h1>
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with me :
 
 <p align="left">
   <a href="https://twitter.com/itzaadiiiii_" target="blank">
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools :
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats :
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzaadiiiii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -70,7 +70,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=itzaadiiiii)
 
 
 
