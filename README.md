@@ -5,7 +5,7 @@
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/@itzaadiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/@itzaadiiiii?logo=twitter&style=for-the-badge" alt="itzaadiiiii" /></a> <a href="https://x.com/itzaadiiiii_" target="blank"><img src="https://imgs.search.brave.com/rifzOfLBA_ieDivGXbpI6Q3cD5Pnx2chMDxb0-5ERUY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/bmV3LXR3aXR0ZXIt/bG9nby14LWljb24t/YmxhY2stYmFja2dy/b3VuZF8xMDE3LTQ1/NDI3LmpwZz9zZW10/PWFpc19oeWJyaWQm/dz03NDA" alt="itzaadiiiii" /></a> </p>
+<p align="left"> <a href="https://x.com/itzaadiiiii_" target="blank"><img src="https://img.shields.io/twitter/follow/@itzaadiiiii?logo=twitter&style=for-the-badge" alt="itzaadiiiii" /></a> </p>
 
 # - 🔭  **Cloud DevOps Engineer**
 
