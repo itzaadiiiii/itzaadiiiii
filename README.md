@@ -48,7 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/X-gc54tj5zwabhRm6NiybvGuIvBuY80rXIz_RwgChzo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS12/ZWN0b3IvdmVjdG9y/LWlsbHVzdHJhdGlv/bi1jaS1jZC1jb250/aW51b3VzLTI2MG53/LTIyNDM5OTExMzEu/anBn" alt="CI/CD" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/X-gc54tj5zwabhRm6NiybvGuIvBuY80rXIz_RwgChzo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS12/ZWN0b3IvdmVjdG9y/LWlsbHVzdHJhdGlv/bi1jaS1jZC1jb250/aW51b3VzLTI2MG53/LTIyNDM5OTExMzEu/anBn" alt="CI/CD" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
     <img src="https://imgs.search.brave.com/stfUnjoNhMd6iTS3lwV7nDIwKu7SDS670RGBOWdjg1s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWRvY2tlci1sb2dv/LWljb24tZG93bmxv/YWQtaW4tc3ZnLXBu/Zy1naWYtZmlsZS1m/b3JtYXRzLS1icmFu/ZC1kZXZlbG9wbWVu/dC10b29scy1wYWNr/LWxvZ29zLWljb25z/LTIyNjA5MS5wbmc_/Zj13ZWJwJnc9MjU2" alt="Docker" width="40" height="40"/>
