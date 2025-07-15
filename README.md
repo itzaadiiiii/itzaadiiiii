@@ -9,7 +9,7 @@
 
 # - 🔭  **Cloud DevOps Engineer**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **GCP**
 
 - 💬 Ask me about ** AWS , AZURE , DevOps, Terraform , CI-CD , Jenkins , Ansible , Docker, Kubernetes , Prometheus , Graphana , Python, Django , MySQL**
 
