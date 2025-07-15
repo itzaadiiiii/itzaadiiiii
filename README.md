@@ -48,6 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://imgs.search.brave.com/Cr3znbqwQcWl75oyrD77ahQZI09uKU3uUrPO792rp1s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL3RhbmRw/ZnVuL3NraWxsLWlj/b25zL3Jhdy9tYWlu/L2ljb25zL0dpdGh1/Yi1EYXJrLnN2Zw" alt="GitHub" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/RKj5I4nL8tOUIMgflbE5yPmY9sl2SPN7gX_iGLGs7X0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE1LzI4Lzc4Lzc5/LzM2MF9GXzE1Mjg3/ODc5MzhfSUdaOXBM/bXpldG15eVpDRW9O/ckpaZ1VzUks4bTNj/cDUuanBn" alt="CI/CD" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
