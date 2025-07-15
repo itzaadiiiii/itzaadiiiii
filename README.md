@@ -49,7 +49,7 @@
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="CI/CD" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/X-gc54tj5zwabhRm6NiybvGuIvBuY80rXIz_RwgChzo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS12/ZWN0b3IvdmVjdG9y/LWlsbHVzdHJhdGlv/bi1jaS1jZC1jb250/aW51b3VzLTI2MG53/LTIyNDM5OTExMzEu/anBn" alt="CI/CD" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
