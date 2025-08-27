@@ -16,7 +16,7 @@
 
 ---
 
-# 🔭 Cloud DevOps Engineer
+# 🔭 AWS DevOps Engineer
 
 - 🌱 Currently learning **Google Cloud Platform (GCP)**
 - 💬 Ask me about **AWS, Azure, DevOps, Terraform, CI/CD, Jenkins, Ansible, Docker, Kubernetes, Prometheus, Grafana, Python, Django, MySQL**
