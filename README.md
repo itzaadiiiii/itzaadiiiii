@@ -68,12 +68,18 @@
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzaadiiiii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=itzaadiiiii&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true)
+
