@@ -1,3 +1,7 @@
+
+
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
 <h1 align="center">ADITYA PATIL</h1><p align="center">Cloud • DevOps • SRE Engineer</p>
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 
@@ -6,12 +10,8 @@
 <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- <p align="left">
-<img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=itzaadiiiii&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->
-
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
-
-
 
 
 <br />
