@@ -169,19 +169,6 @@ Passionate about automation, observability, and resilience across the entire del
 
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzaadiiiii&theme=tokyonight" />
-</p>
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzaadiiiii&theme=tokyo-night&hide_border=true" />
-</p>
-
-
-
----
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzaadiiiii&theme=tokyonight" />
 </p>
@@ -190,6 +177,11 @@ Passionate about automation, observability, and resilience across the entire del
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzaadiiiii&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzaadiiiii&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzaadiiiii&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 
