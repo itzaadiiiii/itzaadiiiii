@@ -23,6 +23,7 @@ Specialized in building scalable, reliable, and secure systems using modern DevO
 Passionate about automation, observability, and resilience across the entire delivery lifecycle.
 
 ---
+<br />
 <!--
 
 ## 🏅 Certifications
@@ -57,8 +58,10 @@ Passionate about automation, observability, and resilience across the entire del
 - **Drive cloud cost optimization** through **right-sizing, autoscaling, reserved/savings plans, storage tiering, and governance**, helping organizations **reduce cloud spend significantly**
 - **Participate in SRE on-call rotations**, **resolve production incidents**, perform **root cause analysis (RCA)**, and implement **preventive automation** to **reduce MTTR and improve system reliability**
 ---
+<br />
 
 ## 🧰 DevOps Toolchain
+<br />
 
 ### ☁️ Cloud & Infrastructure
 <p>
@@ -99,6 +102,7 @@ Passionate about automation, observability, and resilience across the entire del
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
 </p>
+<br />
 
 ---
 
@@ -176,7 +180,6 @@ Passionate about automation, observability, and resilience across the entire del
   </a>
 </p>
 <br />
-<br />
 
 
 ## 📊 GitHub Activity
@@ -197,6 +200,7 @@ Passionate about automation, observability, and resilience across the entire del
 </p>
 
 ---
+<br />
 
 ## 📫 Reach Me
 🌐 **[cloud-devops.aadiitya.life](https://cloud-devops.aadiitya.life)** — portfolio, projects & contact  
