@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/twitter/follow/itzaadiiiii_?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p> -->
-
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 <h1 align="center">Hi 👋, I'M ADITYA PATIL</h1>
 
 <h3 align="center">
