@@ -175,6 +175,8 @@ Passionate about automation, observability, and resilience across the entire del
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
   </a>
 </p>
+<br />
+<br />
 
 
 ## 📊 GitHub Activity
