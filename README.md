@@ -190,10 +190,13 @@ Passionate about automation, observability, and resilience across the entire del
 </p>
 
 ---
-
-### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaadiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzaadiiiii&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzaadiiiii&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzaadiiiii&theme=tokyonight" />
 </p>
 ---
 
