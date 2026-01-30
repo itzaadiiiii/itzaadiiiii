@@ -6,7 +6,6 @@
 Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 </h3> -->
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
     font=Fira+Code
@@ -20,7 +19,7 @@ Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable 
     &lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure;Building+Reliable+Systems+at+Scale"
   />
 </p>
----
+
 
 <!-- <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif"> -->
 <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
