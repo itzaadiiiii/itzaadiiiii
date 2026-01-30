@@ -1,7 +1,5 @@
 
 
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
-
 <h1 align="center">ADITYA PATIL</h1><p align="center">Cloud • DevOps • SRE Engineer</p>
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 
@@ -133,6 +131,7 @@ Passionate about automation, observability, and resilience across the entire del
 [Buy Me A Coffee](https://www.buymeacoffee.com/aman.pathak)
 -->
 
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
 
 ## 🤝 Connect With Me
