@@ -192,6 +192,7 @@ Passionate about automation, observability, and resilience across the entire del
 <br/>
 
 # ⚡ Fun Fact
-<small><em>☕ ➜ ☁️ Turning coffee into <strong>scalable infrastructure</strong></em></small>
+<small>☕ ➜ ☁️ Turning coffee into <strong>scalable infrastructure</strong></small>
+
 
 ---
