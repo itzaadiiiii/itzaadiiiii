@@ -23,10 +23,11 @@ Specialized in building scalable, reliable, and secure systems using modern DevO
 Passionate about automation, observability, and resilience across the entire delivery lifecycle.
 
 ---
+<!--
 
 ## 🏅 Certifications
 
-<!-- <p align="left">
+ <p align="left">
 <img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
