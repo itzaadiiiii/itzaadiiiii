@@ -132,83 +132,29 @@ Passionate about automation, observability, and resilience across the entire del
 -->
 
 
-<!--
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aman-devops">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/amanpathak.devops">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://amanpathakdevops.medium.com">
-    <img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" />
-  </a>
-</p>
-
----
--->
-
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <!-- <a href="https://dev.to/@amandevops" style="margin-right:12px;">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a> -->
-
-  <a href="https://www.linkedin.com/in/aadiityapatil420/" style="margin-right:12px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/aadiityapatil420/" style="margin-right:12px;">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="https://medium.com/@adityapatil14920251" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" />
-  </a>
-
-  <a href="https://x.com/itzaadiiiii_" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/x/000000" width="48" height="48" />
-  </a>
-
-  <a href="mailto:adityapatil14920251@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
-  </a>
-</p>
-<br />
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <!-- Dev.to (optional)
-  <a href="https://dev.to/@amandevops">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  -->
-
   <a href="https://www.linkedin.com/in/aadiityapatil420/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/aadiityapatil420/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://medium.com/@adityapatil14920251">
     <img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/itzaadiiiii_">
     <img src="https://cdn.simpleicons.org/x/000000" width="48" height="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:adityapatil14920251@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
@@ -216,6 +162,7 @@ Passionate about automation, observability, and resilience across the entire del
 </p>
 
 <br />
+
 
 
 
