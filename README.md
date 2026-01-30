@@ -171,7 +171,6 @@ Passionate about automation, observability, and resilience across the entire del
 ## 📊 GitHub Activity
 
 
----
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzaadiiiii&theme=tokyonight" />
 </p>
