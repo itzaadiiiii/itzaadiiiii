@@ -33,7 +33,7 @@ Passionate about automation, observability, and resilience across the entire del
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
---- -->
+--- 
 
 ## 🚀 What I Do
 
@@ -44,7 +44,8 @@ Passionate about automation, observability, and resilience across the entire del
 - Design centralized observability using Prometheus, Grafana, and ELK
 - Integrate DevSecOps practices into delivery workflows
 
----
+--- -->
+
 ## 🚀 **What I Do**
 
 - **Run production-grade Kubernetes platforms** (**EKS, AKS, GKE**) across **multiple environments**
