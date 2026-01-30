@@ -167,12 +167,20 @@ Passionate about automation, observability, and resilience across the entire del
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaadiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p> -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaadiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
