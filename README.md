@@ -1,9 +1,20 @@
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
 
+<h1 align="center" style="font-size: 3.2em; font-weight: 800;">
+  ADITYA PATIL
+</h1>
 
+<p align="center" style="font-size: 1.4em; font-weight: 500;">
+  Cloud • DevOps • SRE Engineer
+</p>
 
-#<h1 align="center">ADITYA PATIL</h1><p align="center">Cloud • DevOps • SRE Engineer</p>
+<h3 align="center" style="font-weight: 400; color: #8b949e;">
+  “Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!”
+</h3>
+---
+
+<h1 align="center">ADITYA PATIL</h1><p align="center">Cloud • DevOps • SRE Engineer</p>
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 
 
