@@ -14,11 +14,9 @@
   </a>
 </p> -->
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
 <h1 align="center">Hi 👋, I'M ADITYA PATIL</h1>
 
-<h3 align="center">
-CLoud & DevOps Engineer | 
-</h3>
 
 <!-- <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif"> -->
 <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
