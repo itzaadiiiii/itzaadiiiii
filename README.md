@@ -31,16 +31,14 @@ CLoud & DevOps Engineer |
 
 <h2>👨‍💻 About Me</h2>
 
-I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+DevOps & Cloud Engineer with experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
 My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
-
 
 
 ---
 
 # 🔭 Cloud & DevOps Engineer
 
-- 🌱 Currently learning **Google Cloud Platform (GCP)**
 - 💬 Ask me about **AWS, Azure, DevOps, Terraform, CI/CD, Jenkins, Ansible, Docker, Kubernetes, Prometheus, Grafana, Python, Django, MySQL**
 - ⚡ Fun fact: **Talk less, Code more**
 
