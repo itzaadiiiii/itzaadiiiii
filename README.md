@@ -7,21 +7,19 @@ Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable 
 </h3> -->
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 ---
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg,#00c6ff,#0072ff,#9d50bb);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: 800;
-  ">
-    Hi 👋, I'm Aditya Patil
-  </span>
-</h1>
-
-<h3 align="center" style="color:#9aa4b2;">
-  Driving Efficiency, Bridging Gaps<br/>
-  <span style="color:#58a6ff;">Cloud & DevOps Engineer</span>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Fira+Code
+    &size=22
+    &duration=3500
+    &pause=800
+    &color=58A6FF
+    &center=true
+    &vCenter=true
+    &width=650
+    &lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure;Building+Reliable+Systems+at+Scale"
+  />
+</p>
 ---
 
 <!-- <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif"> -->
