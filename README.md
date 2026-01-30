@@ -1,24 +1,14 @@
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-<h1 align="center">Hi 👋, I'm Aditya Patil</h1>
+<h1 align="center">Aditya Patil</h1>
 
 <!-- <h3 align="center">
 Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 </h3> -->
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code
-    &size=22
-    &duration=3500
-    &pause=800
-    &color=58A6FF
-    &center=true
-    &vCenter=true
-    &width=650
-    &lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure;Building+Reliable+Systems+at+Scale"
-  />
-</p>
+
+<h1 align="center">Aditya Patil</h1>
+<p align="center">Cloud • DevOps • SRE Engineer</p>
 
 
 <!-- <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif"> -->
