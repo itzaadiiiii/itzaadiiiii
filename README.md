@@ -18,8 +18,9 @@ Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable 
 
 <h2>👨‍💻 About Me</h2>
 
-Cloud/DevOps/SRE Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
-My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
+Cloud / DevOps / SRE Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+Specialized in building scalable, reliable, and secure systems using modern DevOps and SRE practices.
+Passionate about automation, observability, and resilience across the entire delivery lifecycle.
 
 ---
 
@@ -88,15 +89,14 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ---
 
+<!--
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How I Troubleshoot Databases When My Application Suddenly Gets Slow](https://medium.com/codetodeploy/how-i-troubleshoot-databases-when-my-application-suddenly-gets-slow-737171acdc99?source=rss-9ae0fed1d713------2)
-- [How to Upgrade a Kubernetes Cluster Upgrade in a Production Environment with Zero Downtime: Things…](https://blog.stackademic.com/kubernetes-cluster-upgrade-on-on-prem-things-i-learned-the-hard-way-0f08682db65b?source=rss-9ae0fed1d713------2)
-- [AWS Certificate Manager Certificates: The Hidden Cost That Surprised Me](https://aws.plainenglish.io/aws-certificate-manager-certificates-the-hidden-cost-that-surprised-me-771cbc1cec01?source=rss-9ae0fed1d713------2)
-- [How to Become Job-Ready in DevOps &amp; Cloud in 45 Days &lpar;Real Project-Based Roadmap&rpar;](https://blog.stackademic.com/how-to-become-job-ready-in-devops-cloud-in-45-days-real-project-based-roadmap-24f656f5b561?source=rss-9ae0fed1d713------2)
-- [How I Built My DevOps Portfolio from Scratch Using Real-World Infrastructure Practices](https://aws.plainenglish.io/how-i-built-my-devops-portfolio-from-scratch-using-real-world-infrastructure-practices-551f4e8de216?source=rss-9ae0fed1d713------2)
-<!-- BLOG-POST-LIST:END -->
+- [How I Troubleshoot Databases When My Application Suddenly Gets Slow](https://medium.com/codetodeploy/how-i-troubleshoot-databases-when-my-application-suddenly-gets-slow-737171acdc99)
+- [How to Upgrade a Kubernetes Cluster in Production with Zero Downtime](https://blog.stackademic.com/kubernetes-cluster-upgrade-on-on-prem-things-i-learned-the-hard-way-0f08682db65b)
+- [AWS Certificate Manager Certificates: The Hidden Cost That Surprised Me](https://aws.plainenglish.io/aws-certificate-manager-certificates-the-hidden-cost-that-surprised-me-771cbc1cec01)
+- [How to Become Job-Ready in DevOps & Cloud in 45 Days](https://blog.stackademic.com/how-to-become-job-ready-in-devops-cloud-in-45-days-real-project-based-roadmap-24f656f5b561)
+- [How I Built My DevOps Portfolio from Scratch](https://aws.plainenglish.io/how-i-built-my-devops-portfolio-from-scratch-using-real-world-infrastructure-practices-551f4e8de216)
 
 📚 More articles: https://amanpathakdevops.medium.com
 
@@ -104,51 +104,86 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ## 🌍 Community & Learning
 
-- 👥 **Learn together on Discord**: https://discord.gg/jdzF8kTtw2
-- 📞 **1:1 guidance, mentorship, DevOps consulting & freelancing projects**:
-  https://topmate.io/aman_pathak10
-- 🎥 **DevOps & Cloud content on YouTube**:
-  https://www.youtube.com/@aman-pathak
+- 👥 Learn together on Discord: https://discord.gg/jdzF8kTtw2
+- 📞 1:1 guidance, mentorship & DevOps consulting: https://topmate.io/aman_pathak10
+- 🎥 DevOps & Cloud content on YouTube: https://www.youtube.com/@aman-pathak
 
 ---
 
 ## ☕ Support My Work
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aman.pathak)
+[Buy Me A Coffee](https://www.buymeacoffee.com/aman.pathak)
+-->
+
+
+<!--
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-devops">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/amanpathak.devops">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://amanpathakdevops.medium.com">
+    <img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" />
+  </a>
+</p>
 
 ---
+-->
+
 
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://dev.to/@amandevops"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://www.linkedin.com/in/aman-devops"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/amanpathak.devops"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://amanpathakdevops.medium.com"><img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" /></a>
-<!-- <a href="https://www.youtube.com/@aman-pathak"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" /></a> -->
+  <!-- <a href="https://dev.to/@amandevops" style="margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a> -->
+
+  <a href="https://www.linkedin.com/in/aadiityapatil420/" style="margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/aadiityapatil420/" style="margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://medium.com/@adityapatil14920251" style="margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" />
+  </a>
+
+  <a href="https://x.com/itzaadiiiii_" style="margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/x/000000" width="48" height="48" />
+  </a>
+
+  <a href="mailto:adityapatil14920251@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
+  </a>
 </p>
 
----
 
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amanpathak-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzaadiiiii_&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathak-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaadiiiii_&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpathak-devops&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzaadiiiii_&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpathak-devops&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzaadiiiii_&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-📫 Reach me at **aman.pathakbz@gmail.com**<br>
-⚡ Fun fact: I am an extrovert who enjoys solving real production problems
+
+📫 Reach me at **cloud_devops.aadiitya.life**<br>
+⚡ Fun fact: Turning coffee ☕ into scalable infrastructure ☁️
