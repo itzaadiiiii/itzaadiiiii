@@ -139,22 +139,22 @@ Passionate about automation, observability, and resilience across the entire del
   <a href="https://www.linkedin.com/in/aadiityapatil420/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/aadiityapatil420/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://medium.com/@adityapatil14920251">
     <img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://x.com/itzaadiiiii_">
     <img src="https://cdn.simpleicons.org/x/000000" width="48" height="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="mailto:adityapatil14920251@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
@@ -162,6 +162,7 @@ Passionate about automation, observability, and resilience across the entire del
 </p>
 
 <br />
+
 
 
 
@@ -188,7 +189,9 @@ Passionate about automation, observability, and resilience across the entire del
 
 # 📫 Reach Me
 🌐 **[cloud-devops.aadiitya.life](https://cloud-devops.aadiitya.life)** — portfolio, projects & contact  
+<br/>
 
 # ⚡ Fun Fact
-☕ ➜ ☁️ Turning coffee into **scalable infrastructure**
+<small><em>☕ ➜ ☁️ Turning coffee into <strong>scalable infrastructure</strong></em></small>
+
 ---
