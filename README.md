@@ -1,7 +1,3 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
-
-
-
 <h1 align="center">ADITYA PATIL</h1><p align="center">Cloud • DevOps • SRE Engineer</p>
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 
@@ -12,6 +8,12 @@
 <!-- <p align="left">
 <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->
+
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
+
+
+
 <br />
 
 
@@ -141,7 +143,7 @@ Passionate about automation, observability, and resilience across the entire del
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/aadiityapatil420/">
+  <a href="https://www.instagram.com/itzaadiiiii_/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;
