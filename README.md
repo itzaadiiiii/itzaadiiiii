@@ -185,7 +185,7 @@ Passionate about automation, observability, and resilience across the entire del
 </p>
 
 ---
-<br />
+
 
 # 📫 Reach Me
 🌐 **[cloud-devops.aadiitya.life](https://cloud-devops.aadiitya.life)** — portfolio, projects & contact  
