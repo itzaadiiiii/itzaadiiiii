@@ -45,18 +45,16 @@ Passionate about automation, observability, and resilience across the entire del
 - Integrate DevSecOps practices into delivery workflows
 
 ---
-🚀 **What I Do**
+## 🚀 **What I Do**
 
-- Architect, deploy, and operate **production-grade Kubernetes platforms** (EKS, AKS, RKE2) supporting multi-environment workloads with 99.9% uptime  
-- Design and manage **multi-cloud infrastructure (AWS & Azure)** using Terraform, CloudFormation, and ARM/Bicep across Dev, QA, UAT, and Prod environments  
-- Lead **GitOps-driven delivery** using Argo CD and Helm, enabling declarative deployments and reducing release errors by 70%  
-- Build and optimize **end-to-end CI/CD pipelines** (Jenkins, GitHub Actions, GitLab CI, AWS CodePipeline) with parallel execution to accelerate releases by 40%  
-- Embed **DevSecOps practices** (SAST, SCA, DAST, SBOM) using Trivy, SonarQube, Gitleaks, OWASP ZAP, ensuring secure-by-default pipelines  
-- Design and operate **centralized observability platforms** with Prometheus, Grafana, ELK, Jaeger, and proactive alerting to reduce MTTR by 50%  
-- Modernize legacy monoliths into **cloud-native microservices**, improving deployment velocity by 60% and enabling independent scaling  
-- Enforce **cloud security & compliance** using IAM least privilege, AWS Config, CloudTrail, Inspector, OPA/Kyverno, and Falco to meet SOC2 / ISO standards  
-- Automate infrastructure and operations using **Ansible, Bash, and Python**, eliminating manual toil and improving operational efficiency  
-
+- **Run production-grade Kubernetes platforms** (**EKS, AKS, GKE**) across **multiple environments**
+- **Build and manage multi-cloud infrastructure** on **AWS, Azure, and GCP** using **Terraform, CloudFormation, and ARM/Bicep**
+- **Implement GitOps-based deployments** with **Argo CD and Helm**
+- **Automate secure CI/CD pipelines** using **Jenkins, GitHub Actions, GitLab CI, AWS CodePipeline, and Azure DevOps**
+- **Design end-to-end observability** with **New Relic, Prometheus, Grafana, ELK, Loki, and Jaeger**
+- **Integrate DevSecOps controls** and enforce **cloud security best practices** across pipelines and platforms
+- **Drive cloud cost optimization** through **right-sizing, autoscaling, reserved/savings plans, storage tiering, and governance**, helping organizations **reduce cloud spend significantly**
+- **Participate in SRE on-call rotations**, **resolve production incidents**, perform **root cause analysis (RCA)**, and implement **preventive automation** to **reduce MTTR and improve system reliability**
 ---
 
 ## 🧰 DevOps Toolchain
