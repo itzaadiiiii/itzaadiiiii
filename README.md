@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Aditya Patil</h1><p align="center">Cloud • DevOps • SRE Engineer</p>
+<h1 align="center">ADITYA PATIL</h1><p align="center">Cloud • DevOps • SRE Engineer</p>
 <h3 align="center">"Driving Efficiency, Bridging Gaps: Cloud and DevOps Engineer at your service!"</h3>
 
 
