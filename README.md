@@ -17,8 +17,6 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<h2>👨‍💻 About Me</h2>
-
 **Cloud / DevOps / SRE Engineer** with strong experience designing, automating, and operating **production-grade cloud and Kubernetes platforms**.  
 Specialized in building **scalable, reliable, and secure systems** using modern **DevOps and SRE practices**.  
 Passionate about **automation, observability, and resilience** across the **entire delivery lifecycle**.
