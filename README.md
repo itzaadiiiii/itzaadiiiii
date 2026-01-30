@@ -239,9 +239,9 @@ Passionate about automation, observability, and resilience across the entire del
 ---
 <br />
 
-## 📫 Reach Me
+# 📫 Reach Me
 🌐 **[cloud-devops.aadiitya.life](https://cloud-devops.aadiitya.life)** — portfolio, projects & contact  
 
-## ⚡ Fun Fact
-**☕ ➜ ☁️ Turning coffee into **scalable infrastructure**
+# ⚡ Fun Fact
+☕ ➜ ☁️ Turning coffee into **scalable infrastructure**
 ---
